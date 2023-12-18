@@ -7,9 +7,4 @@ body {
   width: 100px;
   height: 100px;
   border: 2px solid red;
-}
-@medi screeen: (min 600px) {
-  #demo {
-    border: 3px solid blue;
-  }
 }/*# sourceMappingURL=style.css.map */
