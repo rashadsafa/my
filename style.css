@@ -6,6 +6,7 @@ body {
 #demo .minibox {
   width: 100px;
   height: 100px;
+  font-size: 40px;
   border: 2px solid red;
   transition: 4s;
 }
@@ -16,9 +17,17 @@ body {
   #demo .minibox {
     width: 100px;
     height: 100px;
-    border: 3px solid black;
+    border: 5px solid black;
+    border-radius: 50%;
+    background-color: blue;
+    color: red;
   }
   #demo .minibox:hover {
     width: 200px;
   }
+}
+
+#drop {
+  width: 100px;
+  heigh: 100px;
 }/*# sourceMappingURL=style.css.map */
