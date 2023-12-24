@@ -27,7 +27,8 @@ body {
   }
 }
 
-#drop {
+#drop .minibox {
   width: 100px;
-  heigh: 100px;
+  height: 100px;
+  border: 2px solid blue;
 }/*# sourceMappingURL=style.css.map */
